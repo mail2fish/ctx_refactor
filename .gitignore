@@ -4,6 +4,9 @@
 *.dll
 *.so
 *.dylib
+ctx_refactor.code-workspace
+ctx_refactor
+
 
 # Test binary, build with `go test -c`
 *.test
